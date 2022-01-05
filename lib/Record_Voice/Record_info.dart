@@ -1,0 +1,45 @@
+var Re = {
+  0:['images/character/a.png'],
+  1:['images/character/B.png'],
+  2:['images/character/C.png'],
+  3:['images/character/D.png'],
+  4:['images/character/D.png'],
+  5:['images/character/E.png'],
+  6:['images/character/F.png'],
+  7:['images/character/G.png'],
+  8:['images/character/H.png'],
+  9:['images/character/I.png'],
+  10:['images/character/J.png'],
+  11:['images/character/K.png'],
+  12:['images/character/l.png'],
+  13:['images/character/M.png'],
+};
+
+var food = {
+  0:['images/liwu.png'],
+  1:['images/object/bag.png'],
+  2:['images/object/ruler.png'],
+  3:['images/object/tape.png'],
+  4:['images/object/tellurion.png'],
+  5:['images/object/abacus.png'],
+  6:['images/object/scissor.png'],
+  7:['images/object/calculator.png'],
+  8:['images/object/Pen.png'],
+  9:['images/object/camera.png'],
+  10:['images/object/palette.png'],
+  11:['images/object/plane.png'],
+  12:['images/object/briefcase.png'],
+  13:['images/object/computer.png'],
+  14:['images/object/clock.png'],
+  15:['images/object/flashlight.png'],
+  16:['images/object/goggle.png'],
+  17:['images/object/swimring.png'],
+  18:['images/object/oxygenbottle.png'],
+};
+
+var story = {
+  0:['images/story/animal.jpg'],
+  1:['images/story/baby.png'],
+  2:['images/story/bookroom.png'],
+  3:['images/story/Tree.png'],
+};

@@ -1,0 +1,28 @@
+import 'package:flutter/material.dart';
+import 'SignUpLink.dart';
+
+
+class SignIn extends StatelessWidget {
+  SignIn();
+  @override
+  Widget build(BuildContext context) {
+    return (new Container(
+      width: 280.0,
+      height: 60.0,
+      alignment: FractionalOffset.center,
+      decoration: new BoxDecoration(
+        color: Colors.blue,
+        borderRadius: new BorderRadius.all(const Radius.circular(30.0)),
+      ),
+      child: new Text(
+        "登录",
+        style: new TextStyle(
+          color: Colors.white,
+          fontSize: 20.0,
+          fontWeight: FontWeight.w300,
+          letterSpacing: 0.3,
+        ),
+      ),
+    ));
+  }
+}
