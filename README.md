@@ -4,6 +4,12 @@
 
 used zhenw's tts_flutter demo to develop my app
 
-![image](https://github.com/hzy102332/Autism_app_Demo/blob/d52b96b5f2dbc652e2c1fa54656cfa455a4b69f0/images/5dianzhong.png)
+![image](https://github.com/hzy102332/Autism_app_Demo/blob/d6e64975995eaa0d278cfdd446e309d5cd3a0bf5/Readmepic/entry.png)
 
+![image](https://github.com/hzy102332/Autism_app_Demo/blob/d6e64975995eaa0d278cfdd446e309d5cd3a0bf5/Readmepic/login.png)
 
+![image](https://github.com/hzy102332/Autism_app_Demo/blob/d6e64975995eaa0d278cfdd446e309d5cd3a0bf5/Readmepic/main.png)
+
+![image](https://github.com/hzy102332/Autism_app_Demo/blob/d6e64975995eaa0d278cfdd446e309d5cd3a0bf5/Readmepic/second.png)
+
+![image](https://github.com/hzy102332/Autism_app_Demo/blob/d6e64975995eaa0d278cfdd446e309d5cd3a0bf5/Readmepic/account.png)
